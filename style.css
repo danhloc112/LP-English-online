@@ -1,0 +1,129 @@
+*{
+	margin:0;
+	padding:0;
+	border: 0;
+}
+body {
+	width:1170px;
+	background-color: #F5F5F5;
+	margin-left:200px;
+	margin-top: 20px;
+}
+.anh-title{
+	background-color: #77A9DA;
+	margin-bottom: 15px;
+	margin-top: 30px;
+	width:1170px;
+	height: 110px;
+	background-image: url(https://www.english-online.at/newsportal/img/worldwide-business-map-header.jpg);
+}
+.anh-title h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color: black;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-size: 30px;
+
+}
+.anh-title h2 {
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	font-weight: lighter;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	font-size: 18px;
+}
+.title{
+	text-decoration: none;
+}
+
+.tool-bar{
+	width:1170px;
+	height: 30px;
+	border: 1px solid grey;
+	background-color: #ffffff;
+}
+header li{
+	font-size: 14px;
+	font-family: arial;
+	font-weight: lighter;
+	padding: 6px 25px 10px 5px;
+	display: inline;
+	float:left;
+	margin-bottom: 30px;
+}
+header a {
+	text-decoration: none;
+	color: grey;
+}
+header a:hover {
+	color: black;
+}
+.main {
+	display: table;
+}
+.main-container{
+	width: 70%;
+	margin-top: 30px;
+	display: table-cell;
+}
+.main-container h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	padding: 20px;
+
+}
+.txt{
+	color: black;
+	line-height: 30px;
+	font-size: 16px;
+	margin-bottom: 40px;
+	font-family: arial;
+	padding: 20px;
+}
+.khoi-phu{
+	width: 870px;
+	background-color: #DFF0D8;
+	margin-top: 30px;
+	margin-bottom: 20px;
+
+}
+.txt2{
+	font-family: arial;
+	color: #468847;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.link{
+	text-decoration: none;
+	color: #0088CC;
+}
+a.link:hover {
+	text-decoration: underline;
+	color: #005580;
+}
+.side-bar{
+	width:30%;
+	display: table-cell;
+	padding-left: 30px 0px 0px 50px;
+	text-align: left;
+	font-family: arial;
+
+}
+.side-bar ul {
+	padding-left: 20px;
+}
+.side-bar h3 {
+	background-color: grey;
+	color: white;
+	padding: 5px 0px 5px 5px;
+	height: 25px;
+	font-size: 15px;
+	line-height: 25px;
+}
